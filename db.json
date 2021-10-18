@@ -1,0 +1,51 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "firstName": "",
+      "email": "singh.neha2297@gmail.com",
+      "mobile": 8871986181,
+      "age": 7,
+      "address": "zda",
+      "id": 2
+    },
+    {
+      "firstName": "",
+      "email": "singh.neha2297@gmail.com",
+      "mobile": 8871986181,
+      "age": 4,
+      "address": "zaaa",
+      "id": 3
+    },
+    {
+      "firstName": "",
+      "email": "singh.neha2297@gmail.com",
+      "mobile": 8871986181,
+      "age": 6,
+      "address": "tyy",
+      "id": 4
+    },
+    {
+      "firstName": null,
+      "email": "pihu@gmail.com",
+      "mobile": 132335566,
+      "age": -5,
+      "address": "ssss",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
